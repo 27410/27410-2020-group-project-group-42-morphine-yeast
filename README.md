@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/27410-2020-group-project-group-42-morphine-yeast/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/27410-2020-group-project-group-42-morphine-yeast/main)
 
 # 27410 - Group assignment - Group [Group Number] - [TITLE]
 
